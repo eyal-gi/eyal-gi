@@ -4,7 +4,7 @@ Hi there 👋, Im Eyal Ginosar, M.Sc. in Data Science. On my Github page you wil
 courses in my Master's degree. There are documented implementation codes in Python, as well as summary reports for the projects.
 
 ### Machine Learning:
-1. [Recommendation model for bank direct marketing](https://github.com/eyal-gi/Bank-Marketing-Recommendation) - lassification with fully-supervised learning methods 
+1. [Recommendation model for bank direct marketing](https://github.com/eyal-gi/Bank-Marketing-Recommendation) - Classification with fully-supervised learning methods 
 (e.g., Random Forest, Neural Network) and dealing with imbalanced data.
 
 ### Computer Vision:
