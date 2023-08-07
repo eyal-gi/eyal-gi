@@ -1,7 +1,7 @@
 ## Eyal Ginosar
 
 Hi there 👋, Im Eyal Ginosar, M.Sc. in Data Science. On my Github page you will find projects which were undertaken as part of my academic
-courses in my Master's degree. There are documented implementation codes in Python, as well as summary reports for the projects.
+courses in my Master's degree. There are documented implementation codes in Python, as well as summary reports for the projects. r^2
 
 ### Machine Learning:
 1. [Recommendation model for bank direct marketing](https://github.com/eyal-gi/Bank-Marketing-Recommendation) - Classification with fully-supervised learning methods 
